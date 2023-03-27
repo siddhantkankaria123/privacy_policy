@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #F3F8F1F1;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.title{
+    text-align:start ;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-top: 25px;
+    color: black;
+    letter-spacing: 5px;
+}
+.topic{
+    text-align:start ;
+    font-size: 1.2rem;
+    padding-left: 15px;
+    color: #2F58CD;
+    letter-spacing: 2px;
+    margin-top: 2%;
+}
+
+.content{
+    text-align: justify;
+    /* margin-top: 10%; */
+    padding: 7% 10% 20% 10%;
+    
+    font-size: 0.80rem;
+    line-height: 2;
+}
+.para1{
+    margin-bottom: 4%;
+}
+.para2{
+    margin-bottom: 4%;
+}
+.para3{
+    margin-bottom: 4%;
+}
+.para4{
+    font-weight: bold;
+    font-size: 1rem;
+    
+}
